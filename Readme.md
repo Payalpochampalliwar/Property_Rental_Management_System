@@ -6,7 +6,7 @@
 #### Create a new directory
 #### Change to this directory
 #### Clone  this Repo to the current directory
-- `git clone https://github.com/M7mmed-Sayed/Property-Rental-Management-System.git`
+- `git clone https://github.com/Payalpochampalliwar/Property_Rental_Management_System.git'
 
 #### Set up a virtual environment and activate it at Windows open ``` terminal ``` and write the following commands:
 1. `python -m pip install virtualenv`
