@@ -1,0 +1,6 @@
+Django
+djangorestframework
+python-dotenv
+drf-yasg
+psycopg2
+django-filter
